@@ -1,1 +1,3 @@
-# discord-spam
+# Facts about life
+
+They are valid
